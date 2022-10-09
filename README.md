@@ -39,4 +39,4 @@ npm run dev
 npm run build
 ```
 # vue3-pinia-echarts
-see the backend server[backend server](https://github.com/MisFitCSY/vue3-pinia-echarts-backend)
+see the [backend server](https://github.com/MisFitCSY/vue3-pinia-echarts-backend)
